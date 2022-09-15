@@ -56,7 +56,7 @@ function floatingObject(selector, delay, size){
     });
 
 ```
-### 4. fixed bg
+### 4. fixed 이미지
 
 ```css
 .fixed-bg{width: 100%; height: 500px; background-size: cover; display: flex;
