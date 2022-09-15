@@ -56,5 +56,14 @@ function floatingObject(selector, delay, size){
     });
 
 ```
+### 4. fixed bg
+
+```css
+.fixed-bg{width: 100%; height: 500px; background-size: cover; display: flex;
+    background: url(../img/h1-bg.png)center fixed no-repeat;
+justify-content: center; align-items: center;}
+
+```
+
 
 
